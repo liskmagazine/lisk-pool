@@ -1,0 +1,49 @@
+body
+{
+    background-color: #232629;
+    color: red;
+    font-family: 'Arial', sans-serif;
+    font-weight: 300;
+}
+
+
+.heading
+{
+    color: #c1d82f;
+    margin: 1em;
+}
+
+
+.centered
+{    
+    text-align: center;
+}
+
+
+.transaction
+{
+    background-color: #33373b;
+}
+
+
+.banner
+{
+    background-color: #0099cc;
+    color: #000;
+    font-weight: bold;
+}
+
+
+.icon
+{
+    height: 75px;
+    width: auto;
+    margin-right: 2em;
+    margin-bottom: 3em;
+}
+
+
+.link
+{
+    color: black;
+}
