@@ -9,7 +9,7 @@
 	"minpayout": 2,
 	"secret": "SECRET",
 	"secondsecret": "SECRET2",
-	"feededuct": false,
+	"feededuct": true,
 	"donations": {},
 	"donationspercentage": {},
 	"private": false,
