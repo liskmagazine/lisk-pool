@@ -10,8 +10,8 @@
 	"secret": "SECRET",
 	"secondsecret": "SECRET2",
 	"feededuct": false,
-    "donations": {},
-    "donationspercentage": {},
+	"donations": {},
+	"donationspercentage": {},
 	"private": false,
 	"whitelist": [],
 	"skip": []
